@@ -1,7 +1,7 @@
 # Editorial-Workflows
 A collection of Workflows for the Editorial IOS app by the Tutorial Doctor.
 
-Descriptions of the following workflows will be added to this document later. However, descriptions can be found in the links.
+Descriptions of the following workflows will be added to this document later. However, descriptions *can* be found in the links.
 
 - [Floating Edit](http://www.editorial-workflows.com/workflow/5770788456103936/-PFBX7hKlBw)
 - [Execute Document](http://www.editorial-workflows.com/workflow/5249660746727424/c2P2aGjejaU)
