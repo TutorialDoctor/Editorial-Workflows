@@ -12,3 +12,8 @@ Descriptions of the following workflows will be added to this document later. Ho
 - [Get Word Occurances](http://www.editorial-workflows.com/workflow/4931186304483328/iRgr1iUQsp8)
 - [Pull from Python](http://www.editorial-workflows.com/workflow/6619515399962624/mm8VT2uyIWM)
 - [Webpage to Markdown](http://editorial-app.appspot.com/workflow/5853676023316480/fM1Ff_dYwQg) (Aaron Swartz)
+- [Multi Python](http://www.editorial-workflows.com/workflow/5902748843245568/njj7ceBibXc)
+- [Keyword 2.0](http://www.editorial-workflows.com/workflow/5285104091922432/A-C6zjLS1bI)
+- [Output Parameters](http://www.editorial-workflows.com/workflow/5820652556648448/lDDZ2qMlBFA)
+- [Clear Document](http://www.editorial-workflows.com/workflow/5885712721248256/QERuvOeV4I0)
+- [Add to Favorites](http://www.editorial-workflows.com/workflow/5885606018154496/pWR9ed7vcZs)
