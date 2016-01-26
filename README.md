@@ -17,3 +17,4 @@ Descriptions of the following workflows will be added to this document later. Ho
 - [Output Parameters](http://www.editorial-workflows.com/workflow/5820652556648448/lDDZ2qMlBFA)
 - [Clear Document](http://www.editorial-workflows.com/workflow/5885712721248256/QERuvOeV4I0)
 - [Add to Favorites](http://www.editorial-workflows.com/workflow/5885606018154496/pWR9ed7vcZs)
+- [Spelling Corrector](http://www.editorial-workflows.com/workflow/5812487421165568/sc99cjBTVSk)
