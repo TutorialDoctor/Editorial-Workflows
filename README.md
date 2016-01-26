@@ -8,3 +8,4 @@ A collection of Workflows for the Editorial IOS app by the Tutorial Doctor.
 - [Python UI Examples](http://www.editorial-workflows.com/workflow/5858898837766144/0v1-GD4kr80)
 - [Modular Python](http://www.editorial-workflows.com/workflow/5284439445733376/azjk271i9uw)
 - [Get Word Occurances](http://www.editorial-workflows.com/workflow/4931186304483328/iRgr1iUQsp8)
+- [Pull from Python](http://www.editorial-workflows.com/workflow/6619515399962624/mm8VT2uyIWM)
