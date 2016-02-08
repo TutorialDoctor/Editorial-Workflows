@@ -3,6 +3,7 @@ A collection of Workflows for the Editorial IOS app by the Tutorial Doctor.
 
 Descriptions of the following workflows will be added to this document later. However, descriptions *can* be found in the links.
 
+- [Editorial Tutorials](http://www.editorial-workflows.com/workflow/5859804404776960/PM_C8vZwlz4)
 - [Floating Edit](http://www.editorial-workflows.com/workflow/5770788456103936/-PFBX7hKlBw)
 - [Execute Document](http://www.editorial-workflows.com/workflow/5249660746727424/c2P2aGjejaU)
 - [Markdown to BBcode](http://www.editorial-workflows.com/workflow/5315836059320320/YGssYabqEYU)
@@ -19,3 +20,4 @@ Descriptions of the following workflows will be added to this document later. Ho
 - [Add to Favorites](http://www.editorial-workflows.com/workflow/5885606018154496/pWR9ed7vcZs)
 - [Spelling Corrector](http://www.editorial-workflows.com/workflow/5812487421165568/sc99cjBTVSk)
 - [Quick HTML](http://www.editorial-workflows.com/workflow/5812610700148736/kNmUUeBD5IA)
+
