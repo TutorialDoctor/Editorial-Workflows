@@ -22,4 +22,5 @@ Search "Tutorial" or "Doctor" for more workflows.
 - [Add to Favorites](http://www.editorial-workflows.com/workflow/5885606018154496/pWR9ed7vcZs)
 - [Spelling Corrector](http://www.editorial-workflows.com/workflow/5812487421165568/sc99cjBTVSk)
 - [Quick HTML](http://www.editorial-workflows.com/workflow/5812610700148736/kNmUUeBD5IA)
+- [APA and MLA](http://www.editorial-workflows.com/workflow/5802823878967296/pD7s8VMUoRY)
 
