@@ -1,4 +1,4 @@
-A list of must have workflows
+A list of must have workflows for the IOS Editorial app.
 
 # Must Have workflows:
 
