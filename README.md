@@ -24,3 +24,4 @@ Search "Tutorial" or "Doctor" for more workflows.
 - [Quick HTML](http://www.editorial-workflows.com/workflow/5812610700148736/kNmUUeBD5IA)
 - [APA and MLA](http://www.editorial-workflows.com/workflow/5802823878967296/pD7s8VMUoRY)
 
+*additional workflows [here](https://github.com/TutorialDoctor/Editorial-Workflows/blob/master/must_have_workflows.md)*
