@@ -28,5 +28,9 @@ Search "Tutorial" or "Doctor" for more workflows.
 - [Numbered List](http://www.editorial-workflows.com/workflow/5865626031620096/ocI1ImEQi4E)
 - [Unordered List](http://www.editorial-workflows.com/workflow/5789471966494720/D7Gj0iThOT8)
 - [Bible 2](http://www.editorial-workflows.com/workflow/5886269255057408/gB6JnYgZBNw) - A bible app.
+- [Net Bible](http://www.editorial-workflows.com/workflow/5822043924725760/0uNvkjSFZJk)
+- [Traverse](http://www.editorial-workflows.com/workflow/5885787279196160/T0nxCpd_Kmc)
+- [Crawler](http://www.editorial-workflows.com/workflow/5772855476224000/BUyr4o4Kyr8)
+- [Create Multiple Folders](http://www.editorial-workflows.com/workflow/5889459006472192/1b8UbMOFt-Y)
 
 *additional workflows [here](https://github.com/TutorialDoctor/Editorial-Workflows/blob/master/must_have_workflows.md)*
