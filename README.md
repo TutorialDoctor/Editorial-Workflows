@@ -23,5 +23,9 @@ Search "Tutorial" or "Doctor" for more workflows.
 - [Spelling Corrector](http://www.editorial-workflows.com/workflow/5812487421165568/sc99cjBTVSk)
 - [Quick HTML](http://www.editorial-workflows.com/workflow/5812610700148736/kNmUUeBD5IA)
 - [APA and MLA](http://www.editorial-workflows.com/workflow/5802823878967296/pD7s8VMUoRY)
-
+- [GitHub Get](http://www.editorial-workflows.com/workflow/5825287698776064/0yCN6R61LAQ)
+- [Lorem Ipsum](http://www.editorial-workflows.com/workflow/5856384604176384/ugZuiYIDlI8)
+- [Numbered List](http://www.editorial-workflows.com/workflow/5865626031620096/ocI1ImEQi4E)
+- [Unordered List](http://www.editorial-workflows.com/workflow/5789471966494720/D7Gj0iThOT8)
+- [Bible 2](http://www.editorial-workflows.com/workflow/5886269255057408/gB6JnYgZBNw) - A bible app.
 *additional workflows [here](https://github.com/TutorialDoctor/Editorial-Workflows/blob/master/must_have_workflows.md)*
